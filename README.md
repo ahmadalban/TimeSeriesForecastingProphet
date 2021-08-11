@@ -1,4 +1,4 @@
-# TimeSeriesForecastingProphet
+# Time Series Forecasting Prophet
 R studio code to forecast and visualize Indonesia and China Covid Case January-May 2020
 
 We get raw data that we called covid_19_clean_complete.csv
